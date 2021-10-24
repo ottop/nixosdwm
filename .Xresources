@@ -1,0 +1,40 @@
+
+! Font, size, other non-color appearance
+xterm*vt100*faceName: liberation-mono
+xterm*vt100*faceSize: 11
+xterm*vt100*geometry: 100x40
+
+! Login shell
+xterm*loginshell: true
+
+! Scrolling back
+xterm*savelines: 5000
+
+! double-click to select URLs
+xterm*charClass: 33:48,36-47:48,58-59:48,61:48,63-64:48,95:48,126:48
+
+! colours...
+xterm*vt100*background: #202020
+xterm*vt100*foreground: #248ad8
+xterm*color0: rgb:00/00/00
+xterm*color1: rgb:a8/00/00
+xterm*color2: #248ad8
+xterm*color3: rgb:a8/54/00
+xterm*color4: rgb:00/00/a8
+xterm*color5: rgb:a8/00/a8
+xterm*color6: #9e8319
+xterm*color7: #248ad8
+xterm*color8: #348eb5
+xterm*color9: rgb:fc/54/54
+xterm*color10: #9e8319
+xterm*color11: rgb:fc/fc/54
+xterm*color12: #388e19
+xterm*color13: #388e19
+xterm*color14: rgb:54/fc/fc
+xterm*color15: #388e19
+
+! stop continuous jumping down to bottom
+xterm*scrollTtyOutput: false
+
+! Copy to clipboard
+xterm*vt100*selectToClipboard: true
