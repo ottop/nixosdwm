@@ -1,6 +1,9 @@
 # My DWM and accompanying configs for my NixOS setup
 
 ## Example screenshots
+![Screenshot from 2021-10-25 02-59-14](https://user-images.githubusercontent.com/60475104/138618216-9e550e21-82c8-4213-a281-7c6542d0b45d.png)
+![Screenshot from 2021-10-25 02-59-54](https://user-images.githubusercontent.com/60475104/138618219-229119ac-63fb-4412-863e-609a8179a889.png)
+
 
 ## What my configuration uses:
 - [DWM](https://dwm.suckless.org/)
