@@ -7,7 +7,7 @@ static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
 static const char *fonts[]          = { "liberation-mono:size=10" };
 static const char dmenufont[]       = "liberation-mono:size=10";
-static const char col_gray1[]       = "#191919";
+static const char col_gray1[]       = "#292929";
 static const char col_gray2[]       = "#118866";
 static const char col_gray3[]       = "#248ad8";
 static const char col_gray4[]       = "#9e8319";
