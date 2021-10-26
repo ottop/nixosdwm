@@ -65,7 +65,6 @@ static const char unknown_str[] = "n/a";
  */
 static const struct arg args[] = {
 	/* function format          argument */
-	{netspeed_rx,	" ↓ %s", "enp3s"},
 	{netspeed_tx,	" ↑ %s |", "enp3s0"},
 	{ cpu_perc,	" 💻 %s%,", NULL},
         { temp,		" %s°C |", "/sys/devices/platform/coretemp.0/hwmon/hwmon3/temp1_input" },
